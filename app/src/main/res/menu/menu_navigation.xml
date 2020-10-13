@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/news"
+        android:title="News"
+        android:icon="@drawable/ic_news"
+        />
+
+    <item
+        android:id="@+id/Select_country"
+        android:title="Select Country"
+        android:icon="@drawable/ic_selectcountry"
+        />
+
+    <item
+        android:id="@+id/Global_stats"
+        android:title="Global Stats"
+        android:icon="@drawable/ic_homeglobe"
+        />
+
+    <item
+        android:id="@+id/More_info"
+        android:title="More"
+        android:icon="@drawable/ic_more"
+        />
+
+    <item
+        android:id="@+id/Chat"
+        android:title="Chat"
+        android:icon="@drawable/ic_chat"
+        />
+
+
+
+
+
+
+
+</menu>
